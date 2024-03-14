@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Copyright 2017 Journyx, Inc., and other contributors
-#working on this prewritten code by Journyx, Inc
+#working on this prewritten code   by Journyx, Inc
 
 """
 Implement a threaded queue for loggers based on the standard logging.py
